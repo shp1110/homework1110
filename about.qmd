@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+About our memebers
 
-```{r}
-1 + 1
-```
+##Group member 1: Name: Pei Hsieh
+
+Age: become 22 today!
+
+Major: International Business(Year 4)
+
+Nationality: Taiwan
+
+Hobbies: movies, desserts, KPOP, tv dramas
