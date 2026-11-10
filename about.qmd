@@ -2,14 +2,21 @@
 title: "About"
 ---
 
-About our memebers
+About our members
 
-##Group member 1: Name: Pei Hsieh
+## Group Member 1: Pei Hsieh
 
-Age: become 22 today!
+- Age: become 22 today!
 
-Major: International Business(Year 4)
+- Major: International Business(Year 4)
 
-Nationality: Taiwan
+- Nationality: Taiwan
 
-Hobbies: movies, desserts, KPOP, tv dramas
+- Hobbies: movies, desserts, KPOP, tv dramas
+
+## Group Member 2: Janista Sriachtrakul
+
+- Age: will become 22 in 2 days!
+- Major: International College of Innovation
+- Nationality: Thai
+- Hobbies: Traveling, Watching movies
