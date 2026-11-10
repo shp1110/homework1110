@@ -11,6 +11,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About our memebers\n##Group member 1: Name: Pei Hsieh\nAge: become 22 today!\nMajor: International Business(Year 4)\nNationality: Taiwan\nHobbies: movies, desserts, KPOP, tv dramas"
+    "text": "About our members"
+  },
+  {
+    "objectID": "about.html#group-member-1-pei-hsieh",
+    "href": "about.html#group-member-1-pei-hsieh",
+    "title": "About",
+    "section": "Group Member 1: Pei Hsieh",
+    "text": "Group Member 1: Pei Hsieh\n\nAge: become 22 today!\nMajor: International Business(Year 4)\nNationality: Taiwan\nHobbies: movies, desserts, KPOP, tv dramas"
+  },
+  {
+    "objectID": "about.html#group-member-2-janista-sriachtrakul",
+    "href": "about.html#group-member-2-janista-sriachtrakul",
+    "title": "About",
+    "section": "Group Member 2: Janista Sriachtrakul",
+    "text": "Group Member 2: Janista Sriachtrakul\n\nAge: will become 22 in 2 days!\nMajor: International College of Innovation\nNationality: Thai\nHobbies: Traveling, Watching movies"
   }
 ]
